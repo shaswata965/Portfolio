@@ -133,13 +133,13 @@ position:relative;
   background-color: #ccf6c8;
   position: relative;
   padding-bottom: 6.25rem;
-  padding-top: 6.25rem;
+  overflow: hidden;
 }
 .home{
   height:3.125rem;
   width:3.125rem;
   border-radius: 3.125rem;
-  margin-top:3.125rem;
+  margin-top:.625rem;
   right: 76.875rem;
 -moz-box-shadow: 0.625rem 0.625rem 0.3125rem  #666666;
 -webkit-box-shadow: 0.625rem 0.625rem 0.3125rem  #666666;

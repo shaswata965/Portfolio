@@ -1,0 +1,20 @@
+div{
+  height:100px;
+  width:100px;
+}
+.top{
+  background-color: red;
+  position: absolute;
+}
+.middle{
+  background-color: yellow;
+  position: absolute;
+  top:108px;
+  left:108px;
+}
+.bottom{
+  background-color: blue;
+  position: absolute;
+  top:208px;
+  left:208px;
+}
